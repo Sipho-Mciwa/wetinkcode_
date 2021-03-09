@@ -1,8 +1,13 @@
 # Problem - Word Processor
 
-* Modify `word_processor.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+The word processing program offers functionality that helps determine linguistic complexity.
+
+### The expected features includes:
+
+* transform all the words to a list of lowercase strings for further processing
+* determine all the words of longer than a specified length, in order to get a degree of complexity of the text
+* determine the spread of word lengths (i.e. how many words of each length appears)
+* count how many times each alphabet character appears in a list of words
 
 ### To Run
 
