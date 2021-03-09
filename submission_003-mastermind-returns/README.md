@@ -1,8 +1,13 @@
 # Problems - Mastermind
 
-* Modify `mastermind.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+Mastermind is a commandline game, where the user will guess the digits in a randomly generated code.
+
+### Key features
+
+* Generates a code of four digits, with numbers ranging from 1-8
+* User has 12 chances to guess the 4 digits
+* Calculate correctness of digits in guess.
+* Output results.
 
 ### To Run
 
